@@ -1,0 +1,1 @@
+Primera actividad de desarrollo del espacio de trabajo con vite, typescript para programación con framework frontend
