@@ -1,7 +1,7 @@
 # Preguntas de cierre - EC1 F1 A2
 
-**Nombre:** [Escribe tu nombre aquí]  
-**Grupo:** [Escribe tu grupo aquí]
+**Nombre:** Urbina Gutiérrez Angel
+**Grupo:** 001
 
 ## 1. Modelo Gif
 
